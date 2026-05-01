@@ -91,7 +91,7 @@ Durante o desenvolvimento foram aplicados conceitos como:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/PauloPMS/BioLink_Pro_Vitrine_Digital.git
 
 # Acesse a pasta
 cd seu-repositorio
