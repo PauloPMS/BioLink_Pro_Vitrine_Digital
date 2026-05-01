@@ -5,7 +5,7 @@ Cartão de Visitas Digital que reune em um único link canais de atendimento, de
 
 👉 Acesse o projeto online:  
 
-[site_do_projeto](https://seu-usuario.github.io/seu-repositorio/)
+[site_do_projeto](https://bio-link-pro-vitrine-digital.vercel.app/)
 
 
 ## 🧠 Sobre o projeto
